@@ -7,7 +7,7 @@
 
 ## Instructions
 **Running the model**: \
-To just run the pre-trained model on a provided example go to `04-CNN-inference.ipynb`.
+To just run the pre-trained model on a provided example extract it and go to `04-CNN-inference.ipynb`.
 
 **Training the model**: \
 To train the model please download the [Audio Piano Traids Dataset](https://zenodo.org/records/4740877) and copy the relevant chord examples into the `chords` folder using the script in `00-sort-augmented-data.ipynb`. This dataset can then be further enriched with selected chord types from the [jazznet Dataset](https://zenodo.org/records/7192653).\
