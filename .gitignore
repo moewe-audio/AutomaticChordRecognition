@@ -1,5 +1,4 @@
 .venv*
-progressions*
 .DS_Store
-features.npy
-labels.npy
+chords*
+spectros*

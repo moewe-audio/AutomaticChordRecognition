@@ -1,4 +1,6 @@
 numpy
 librosa
 matplotlib
-pandas
+scikit-learn
+tensorflow
+seaborn
